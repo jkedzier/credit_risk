@@ -5,9 +5,9 @@ The data set used was loan application details assessed for risk.  By nature of 
 
 ##Evaluating Accuracy
 To ensure these models are truly accurate, we take the known data and divide it into 2 sets.  One to train the model, and one to test.  Once we have that, we use some evaluative metrics
-### Precision which evaluates predicted positives against all positives
-### Recall or sensivity measures how many people who are high risk was correctly identified
-### Balanced Accuracy to evalues the Recall value in each class (low risk, high risk)
+1 Precision which evaluates predicted positives against all positives
+2 Recall or sensivity measures how many people who are high risk was correctly identified
+3 Balanced Accuracy to evalues the Recall value in each class (low risk, high risk)
 
 
 
